@@ -1,0 +1,13 @@
+{
+  "name": "generic-function-of",
+  "version": "1.0.0",
+  "description": "Bug reproduction",
+  "main": "index.js",
+  "repository": "https://github.com/alexwalterbos/generic-function-of",
+  "author": "Alex Walterbos <atw.231@gmail.com>",
+  "private": false,
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.6.0"
+  }
+}
